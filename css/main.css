@@ -1,0 +1,21 @@
+a {
+    color: #848d96;
+    text-decoration: none;
+  }
+  
+body {
+    display: table;
+    overflow: scroll;
+    height: 100%;
+    background-color: #0b1c2f;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ddd;
+}
+
+.body-wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
